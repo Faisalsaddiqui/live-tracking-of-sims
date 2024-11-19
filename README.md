@@ -10,6 +10,7 @@ Interactive Visualizations: View data through intuitive charts, graphs, and dash
 Customizable Views: Tailor the interface to focus on specific Sims or events.
 
 Export Data: Save Sims' data as reports for future reference.
+
 User-Friendly Interface: Simplified navigation with responsive design for seamless usage across devices.
 Installation
 Clone the Repository
