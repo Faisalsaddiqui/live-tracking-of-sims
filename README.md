@@ -4,21 +4,21 @@ Sims Data Tracker is a comprehensive web application designed to monitor and vis
 
 **Features**
 
-• Real-Time Tracking: Monitor your Sims' daily activities, career progress, relationships, and life events as they happen.
+• **Real-Time Tracking:** Monitor your Sims' daily activities, career progress, relationships, and life events as they happen.
 
-• Interactive Visualizations: View data through intuitive charts, graphs, and dashboards.
+• **Interactive Visualizations:** View data through intuitive charts, graphs, and dashboards.
 
-• Customizable Views: Tailor the interface to focus on specific Sims or events.
+• **Customizable Views:** Tailor the interface to focus on specific Sims or events.
 
-• Export Data: Save Sims' data as reports for future reference.
+• **Export Data:** Save Sims' data as reports for future reference.
 
-• Contributing:
+• **Contributing:**
 We welcome contributions! If you'd like to help improve this project.
 
-• License:
+• **License:**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-• Acknowledgments:
+• **Acknowledgments:**
 Thanks to the community of Sims enthusiasts and developers for inspiring this project.
 
 
