@@ -1,4 +1,4 @@
-# Live-Tracking-of-Sims
+# Live-Tracking-of-Sims 📍👾🕹️
 # Overview
 Sims Data Tracker is a comprehensive web application designed to monitor and visualize real-time data related to your Sims. Whether it's tracking daily activities, careers, relationships, or life events, this tool offers an interactive way to enhance your gameplay experience by providing insights and analytics about your Sims' virtual lives.
 
