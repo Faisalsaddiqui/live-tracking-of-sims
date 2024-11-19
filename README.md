@@ -12,10 +12,10 @@ Sims Data Tracker is a comprehensive web application designed to monitor and vis
 
 - **Export Data:** Save Sims' data as reports for future reference.
 
-- **Contributing:**
+**Contributing:**
 We welcome contributions! If you'd like to help improve this project.
 
-- **Acknowledgments:**
+**Acknowledgments:**
 Thanks to the community of Sims enthusiasts and developers for inspiring this project.
 
 
